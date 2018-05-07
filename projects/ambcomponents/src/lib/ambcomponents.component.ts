@@ -5,15 +5,13 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <p>
       ambcomponents works!
-    </p>
+		</p>
+		 <mat-checkbox>Check me!</mat-checkbox>
   `,
   styles: []
 })
 export class AmbcomponentsComponent implements OnInit {
+  constructor() {}
 
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

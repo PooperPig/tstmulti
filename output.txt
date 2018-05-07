@@ -1,0 +1,716 @@
+Building Angular Package
+Building entry point 'ambcomponents'
+Rendering Stylesheets
+Rendering Templates
+Compiling TypeScript sources through ngc
+
+BUILD ERROR
+../node_modules/@angular/cdk/a11y/typings/aria-describer/aria-describer.d.ts(1,42): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/key-manager/list-key-manager.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/key-manager/list-key-manager.d.ts(9,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/a11y/typings/focus-monitor/focus-monitor.d.ts(9,71): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/focus-monitor/focus-monitor.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/a11y/typings/focus-trap/focus-trap.d.ts(1,65): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/live-announcer/live-announcer.d.ts(1,37): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/live-announcer/live-announcer-token.d.ts(8,32): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/directionality.d.ts(8,41): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/dir-document-token.d.ts(1,32): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/dir.d.ts(8,59): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal.d.ts(8,100): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/dom-portal-outlet.d.ts(8,99): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal-directives.d.ts(8,137): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal-injector.d.ts(8,26): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/keyboard/overlay-keyboard-dispatcher.d.ts(1,53): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-ref.d.ts(10,55): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-ref.d.ts(11,37): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/scrollable.d.ts(8,55): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/scrollable.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/scroll-dispatcher.d.ts(9,57): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/scroll-dispatcher.d.ts(10,42): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/viewport-ruler.d.ts(9,45): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/viewport-ruler.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/scroll/close-scroll-strategy.d.ts(8,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/scroll/reposition-scroll-strategy.d.ts(8,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/scroll/scroll-strategy-options.d.ts(9,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-module.d.ts(1,26): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-container.d.ts(1,53): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/flexible-connected-position-strategy.d.ts(9,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/flexible-connected-position-strategy.d.ts(12,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/position/connected-position-strategy.d.ts(2,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/connected-position-strategy.d.ts(3,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/position/overlay-position-builder.d.ts(9,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay.d.ts(9,60): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-directives.d.ts(9,126): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/fullscreen-overlay-container.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/layout/typings/breakpoints-observer.d.ts(8,35): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/layout/typings/breakpoints-observer.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/collection-viewer.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/data-source.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/selection.d.ts(8,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/unique-selection-dispatcher.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/accordion/typings/accordion.d.ts(1,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/accordion/typings/accordion-item.d.ts(8,60): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/text-field/typings/autofill.d.ts(9,69): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/text-field/typings/autofill.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/text-field/typings/autosize.d.ts(8,71): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/cell.d.ts(8,41): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/row.d.ts(8,112): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/table.d.ts(8,139): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/table.d.ts(11,45): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/stepper/typings/step-label.d.ts(8,29): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(10,110): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(11,33): error TS2307: Cannot find module '@angular/forms'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(13,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/tree-control.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/base-tree-control.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/nested-tree-control.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/node.d.ts(8,29): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/outlet.d.ts(8,34): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/tree.d.ts(10,128): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/tree.d.ts(11,54): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/nested-node.d.ts(8,85): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/padding.d.ts(9,50): error TS2307: Cannot find module '@angular/core'.
+@angular\cdk\bidi\typings\index.ts(13,2): Error during template compile of 'BidiModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+: Unexpected value 'BidiModule in C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts' imported by the module 'MatCommonModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+: Can't export value BidiModule in C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts from MatCommonModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts as it was neither declared nor imported!
+@angular\cdk\platform\typings\index.ts(12,2): Error during template compile of 'PlatformModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts..
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'MatRippleModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\observers\typings\index.ts(124,2): Error during template compile of 'ObserversModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts..
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatCheckboxModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/checkbox/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\platform\typings\index.ts(21,2): Error during template compile of 'Platform'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(56,2): Error during template compile of 'AriaDescriber'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(286,2): Error during template compile of 'FocusTrapFactory'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(312,2): Error during template compile of 'CdkTrapFocus'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(21,2): Error during template compile of 'InteractivityChecker'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(24,2): Error during template compile of 'LiveAnnouncer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(40,2): Error during template compile of 'FocusMonitor'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(367,2): Error during template compile of 'CdkMonitorFocus'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(15,2): Error during template compile of 'A11yModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'NativeDateModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\bidi\typings\index.ts(20,2): Error during template compile of 'Directionality'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+@angular\cdk\bidi\typings\index.ts(26,2): Error during template compile of 'Dir'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(29,2): Error during template compile of 'CdkPortal'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(52,2): Error during template compile of 'CdkPortalOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(161,2): Error during template compile of 'PortalModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(30,2): Error during template compile of 'ScrollDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(19,2): Error during template compile of 'CdkScrollable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(21,2): Error during template compile of 'ViewportRuler'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(13,2): Error during template compile of 'ScrollDispatchModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(27,2): Error during template compile of 'ScrollStrategyOptions'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(24,2): Error during template compile of 'OverlayModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(42,2): Error during template compile of 'Overlay'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(21,2): Error during template compile of 'OverlayContainer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(97,2): Error during template compile of 'CdkOverlayOrigin'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(111,2): Error during template compile of 'CdkConnectedOverlay'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(21,2): Error during template compile of 'FullscreenOverlayContainer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(26,2): Error during template compile of 'OverlayKeyboardDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(20,2): Error during template compile of 'OverlayPositionBuilder'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatAutocompleteModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/autocomplete/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\layout\typings\index.ts(11,2): Error during template compile of 'LayoutModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+@angular\cdk\layout\typings\index.ts(27,2): Error during template compile of 'BreakpointObserver'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+@angular\cdk\layout\typings\index.ts(18,2): Error during template compile of 'MediaMatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatBottomSheetModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/bottom-sheet/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatBottomSheetModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/bottom-sheet/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\collections\typings\index.ts(24,2): Error during template compile of 'UniqueSelectionDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/collections/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatDialogModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/dialog/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatDialogModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/dialog/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'A11yModule in C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\accordion\typings\index.ts(30,2): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(19,2): Error during template compile of 'CdkAccordion'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(14,2): Error during template compile of 'CdkAccordionModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+: Unexpected value 'CdkAccordionModule in C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts' imported by the module 'MatExpansionModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/expansion/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatExpansionModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/expansion/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\text-field\typings\index.ts(48,2): Error during template compile of 'AutofillMonitor'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(119,2): Error during template compile of 'CdkAutofill'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(24,2): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(15,2): Error during template compile of 'TextFieldModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+: Unexpected value 'TextFieldModule in C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts' imported by the module 'MatInputModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts'. Please add a @NgModule annotation.
+: Can't export value TextFieldModule in C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts from MatInputModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts as it was neither declared nor imported!
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatMenuModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/menu/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatSelectModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/select/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatTooltipModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tooltip/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ScrollDispatchModule in C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts' imported by the module 'MatSidenavModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/sidenav/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'MatSidenavModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/sidenav/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatSlideToggleModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/slide-toggle/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatSnackBarModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/snack-bar/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatSnackBarModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/snack-bar/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\table\typings\index.ts(63,2): Error during template compile of 'DataRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(72,2): Error during template compile of 'HeaderRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(81,2): Error during template compile of 'FooterRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(108,2): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(20,2): Error during template compile of 'CdkCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(29,2): Error during template compile of 'CdkHeaderCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(38,2): Error during template compile of 'CdkFooterCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(47,2): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(88,2): Error during template compile of 'CdkHeaderCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(102,2): Error during template compile of 'CdkFooterCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(116,2): Error during template compile of 'CdkCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(69,2): Error during template compile of 'CdkHeaderRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(88,2): Error during template compile of 'CdkFooterRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(108,2): Error during template compile of 'CdkRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(161,2): Error during template compile of 'CdkCellOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(184,2): Error during template compile of 'CdkHeaderRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(199,2): Error during template compile of 'CdkFooterRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(213,2): Error during template compile of 'CdkRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(42,2): Error during template compile of 'CdkTableModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(65,2): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(146,2): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(11,2): Error during template compile of 'CdkStepLabel'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(13,2): Error during template compile of 'CdkStepperNext'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(28,2): Error during template compile of 'CdkStepperPrevious'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(16,2): Error during template compile of 'CdkStepperModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatStepperModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'CdkStepperModule in C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts' imported by the module 'MatStepperModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'CdkTableModule in C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts' imported by the module 'MatTableModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatTabsModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tabs/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatTabsModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tabs/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\tree\typings\index.ts(44,2): Error during template compile of 'CdkTreeNode'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(45,2): Error during template compile of 'CdkNestedTreeNode'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(35,2): Error during template compile of 'CdkTreeNodeDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(20,2): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(17,2): Error during template compile of 'CdkTreeNodeOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(121,2): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(29,2): Error during template compile of 'CdkTreeModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(19,2): Error during template compile of 'CdkTreeNodeToggle'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Unexpected value 'CdkTreeModule in C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts' imported by the module 'MatTreeModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\accordion\typings\index.ts(31,4): Error during template compile of 'CdkAccordion'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(38,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(40,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(42,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(49,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(55,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(85,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(44,4): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(52,4): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+: Can't resolve all parameters for MatTextareaAutosize in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts: (?, [object Object], ?).
+@angular\cdk\stepper\typings\index.ts(158,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(164,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(170,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(191,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(198,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(207,6): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Can't resolve all parameters for MatHorizontalStepper in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts: ([object Object], ?).
+@angular\cdk\stepper\typings\index.ts(75,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(78,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(81,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(87,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(90,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(98,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(106,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Can't resolve all parameters for MatStepper in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts: ([object Object], ?).
+@angular\cdk\stepper\typings\index.ts(22,4): Error during template compile of 'CdkStepperNext'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(37,4): Error during template compile of 'CdkStepperPrevious'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(172,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(204,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(223,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(224,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(225,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(231,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(234,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(242,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(250,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+: Can't resolve all parameters for MatHeaderCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatHeaderRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+@angular\cdk\table\typings\index.ts(50,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(63,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(66,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(69,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+: Can't resolve all parameters for MatCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+: Can't resolve all parameters for MatFooterCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatFooterRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+@angular\cdk\portal\typings\index.ts(95,4): Error during template compile of 'CdkPortalOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+: Can't resolve all parameters for MatTreeNodeDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: (?).
+@angular\cdk\tree\typings\index.ts(28,4): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(38,4): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(50,16): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Can't resolve all parameters for MatTreeNodePadding in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: ([object Object], [object Object], ?, ?, [object Object]).
+@angular\cdk\tree\typings\index.ts(27,4): Error during template compile of 'CdkTreeNodeToggle'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(154,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(164,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(167,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(170,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Can't resolve all parameters for MatTree in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: (?, ?).
+
+Error: ../node_modules/@angular/cdk/a11y/typings/aria-describer/aria-describer.d.ts(1,42): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/key-manager/list-key-manager.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/key-manager/list-key-manager.d.ts(9,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/a11y/typings/focus-monitor/focus-monitor.d.ts(9,71): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/focus-monitor/focus-monitor.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/a11y/typings/focus-trap/focus-trap.d.ts(1,65): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/live-announcer/live-announcer.d.ts(1,37): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/a11y/typings/live-announcer/live-announcer-token.d.ts(8,32): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/directionality.d.ts(8,41): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/dir-document-token.d.ts(1,32): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/bidi/typings/dir.d.ts(8,59): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal.d.ts(8,100): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/dom-portal-outlet.d.ts(8,99): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal-directives.d.ts(8,137): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/portal/typings/portal-injector.d.ts(8,26): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/keyboard/overlay-keyboard-dispatcher.d.ts(1,53): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-ref.d.ts(10,55): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-ref.d.ts(11,37): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/scrollable.d.ts(8,55): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/scrollable.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/scroll-dispatcher.d.ts(9,57): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/scroll-dispatcher.d.ts(10,42): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/scrolling/typings/viewport-ruler.d.ts(9,45): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/scrolling/typings/viewport-ruler.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/scroll/close-scroll-strategy.d.ts(8,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/scroll/reposition-scroll-strategy.d.ts(8,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/scroll/scroll-strategy-options.d.ts(9,24): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-module.d.ts(1,26): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-container.d.ts(1,53): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/flexible-connected-position-strategy.d.ts(9,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/flexible-connected-position-strategy.d.ts(12,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/position/connected-position-strategy.d.ts(2,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/position/connected-position-strategy.d.ts(3,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/overlay/typings/position/overlay-position-builder.d.ts(9,28): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay.d.ts(9,60): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/overlay-directives.d.ts(9,126): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/overlay/typings/fullscreen-overlay-container.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/layout/typings/breakpoints-observer.d.ts(8,35): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/layout/typings/breakpoints-observer.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/collection-viewer.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/data-source.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/selection.d.ts(8,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/collections/typings/unique-selection-dispatcher.d.ts(8,27): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/accordion/typings/accordion.d.ts(1,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/accordion/typings/accordion-item.d.ts(8,60): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/text-field/typings/autofill.d.ts(9,69): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/text-field/typings/autofill.d.ts(10,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/text-field/typings/autosize.d.ts(8,71): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/cell.d.ts(8,41): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/row.d.ts(8,112): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/table.d.ts(8,139): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/table/typings/table.d.ts(11,45): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/stepper/typings/step-label.d.ts(8,29): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(10,110): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(11,33): error TS2307: Cannot find module '@angular/forms'.
+../node_modules/@angular/cdk/stepper/typings/stepper.d.ts(13,25): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/tree-control.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/base-tree-control.d.ts(9,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/control/nested-tree-control.d.ts(8,28): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/node.d.ts(8,29): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/outlet.d.ts(8,34): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/tree.d.ts(10,128): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/tree.d.ts(11,54): error TS2307: Cannot find module 'rxjs'.
+../node_modules/@angular/cdk/tree/typings/nested-node.d.ts(8,85): error TS2307: Cannot find module '@angular/core'.
+../node_modules/@angular/cdk/tree/typings/padding.d.ts(9,50): error TS2307: Cannot find module '@angular/core'.
+@angular\cdk\bidi\typings\index.ts(13,2): Error during template compile of 'BidiModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+: Unexpected value 'BidiModule in C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts' imported by the module 'MatCommonModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+: Can't export value BidiModule in C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts from MatCommonModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts as it was neither declared nor imported!
+@angular\cdk\platform\typings\index.ts(12,2): Error during template compile of 'PlatformModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts..
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'MatRippleModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\observers\typings\index.ts(124,2): Error during template compile of 'ObserversModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts..
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatCheckboxModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/checkbox/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\platform\typings\index.ts(21,2): Error during template compile of 'Platform'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(56,2): Error during template compile of 'AriaDescriber'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(286,2): Error during template compile of 'FocusTrapFactory'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(312,2): Error during template compile of 'CdkTrapFocus'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(21,2): Error during template compile of 'InteractivityChecker'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(24,2): Error during template compile of 'LiveAnnouncer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(40,2): Error during template compile of 'FocusMonitor'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(367,2): Error during template compile of 'CdkMonitorFocus'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+@angular\cdk\a11y\typings\index.ts(15,2): Error during template compile of 'A11yModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts..
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'NativeDateModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/core/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\bidi\typings\index.ts(20,2): Error during template compile of 'Directionality'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+@angular\cdk\bidi\typings\index.ts(26,2): Error during template compile of 'Dir'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/bidi/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(29,2): Error during template compile of 'CdkPortal'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(52,2): Error during template compile of 'CdkPortalOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\portal\typings\index.ts(161,2): Error during template compile of 'PortalModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(30,2): Error during template compile of 'ScrollDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(19,2): Error during template compile of 'CdkScrollable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(21,2): Error during template compile of 'ViewportRuler'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\scrolling\typings\index.ts(13,2): Error during template compile of 'ScrollDispatchModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(27,2): Error during template compile of 'ScrollStrategyOptions'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(24,2): Error during template compile of 'OverlayModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(42,2): Error during template compile of 'Overlay'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(21,2): Error during template compile of 'OverlayContainer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(97,2): Error during template compile of 'CdkOverlayOrigin'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(111,2): Error during template compile of 'CdkConnectedOverlay'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(21,2): Error during template compile of 'FullscreenOverlayContainer'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(26,2): Error during template compile of 'OverlayKeyboardDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+@angular\cdk\overlay\typings\index.ts(20,2): Error during template compile of 'OverlayPositionBuilder'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatAutocompleteModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/autocomplete/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\layout\typings\index.ts(11,2): Error during template compile of 'LayoutModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+@angular\cdk\layout\typings\index.ts(27,2): Error during template compile of 'BreakpointObserver'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+@angular\cdk\layout\typings\index.ts(18,2): Error during template compile of 'MediaMatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/layout/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatBottomSheetModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/bottom-sheet/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatBottomSheetModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/bottom-sheet/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\collections\typings\index.ts(24,2): Error during template compile of 'UniqueSelectionDispatcher'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/collections/typings/index.d.ts..
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatDialogModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/dialog/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatDialogModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/dialog/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'A11yModule in C:/Users/max/projects/node_modules/@angular/cdk/a11y/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatDatepickerModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/datepicker/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\accordion\typings\index.ts(30,2): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(19,2): Error during template compile of 'CdkAccordion'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(14,2): Error during template compile of 'CdkAccordionModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+: Unexpected value 'CdkAccordionModule in C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts' imported by the module 'MatExpansionModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/expansion/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatExpansionModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/expansion/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\text-field\typings\index.ts(48,2): Error during template compile of 'AutofillMonitor'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(119,2): Error during template compile of 'CdkAutofill'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(24,2): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(15,2): Error during template compile of 'TextFieldModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+: Unexpected value 'TextFieldModule in C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts' imported by the module 'MatInputModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts'. Please add a @NgModule annotation.
+: Can't export value TextFieldModule in C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts from MatInputModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts as it was neither declared nor imported!
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatMenuModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/menu/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatSelectModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/select/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatTooltipModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tooltip/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ScrollDispatchModule in C:/Users/max/projects/node_modules/@angular/cdk/scrolling/typings/index.d.ts' imported by the module 'MatSidenavModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/sidenav/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PlatformModule in C:/Users/max/projects/node_modules/@angular/cdk/platform/typings/index.d.ts' imported by the module 'MatSidenavModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/sidenav/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatSlideToggleModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/slide-toggle/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'OverlayModule in C:/Users/max/projects/node_modules/@angular/cdk/overlay/typings/index.d.ts' imported by the module 'MatSnackBarModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/snack-bar/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatSnackBarModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/snack-bar/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\table\typings\index.ts(63,2): Error during template compile of 'DataRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(72,2): Error during template compile of 'HeaderRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(81,2): Error during template compile of 'FooterRowOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(108,2): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(20,2): Error during template compile of 'CdkCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(29,2): Error during template compile of 'CdkHeaderCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(38,2): Error during template compile of 'CdkFooterCellDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(47,2): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(88,2): Error during template compile of 'CdkHeaderCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(102,2): Error during template compile of 'CdkFooterCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(116,2): Error during template compile of 'CdkCell'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(69,2): Error during template compile of 'CdkHeaderRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(88,2): Error during template compile of 'CdkFooterRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(108,2): Error during template compile of 'CdkRowDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(161,2): Error during template compile of 'CdkCellOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(184,2): Error during template compile of 'CdkHeaderRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(199,2): Error during template compile of 'CdkFooterRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(213,2): Error during template compile of 'CdkRow'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(42,2): Error during template compile of 'CdkTableModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(65,2): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(146,2): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(11,2): Error during template compile of 'CdkStepLabel'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(13,2): Error during template compile of 'CdkStepperNext'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(28,2): Error during template compile of 'CdkStepperPrevious'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(16,2): Error during template compile of 'CdkStepperModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatStepperModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'CdkStepperModule in C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts' imported by the module 'MatStepperModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'CdkTableModule in C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts' imported by the module 'MatTableModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'PortalModule in C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts' imported by the module 'MatTabsModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tabs/typings/index.d.ts'. Please add a @NgModule annotation.
+: Unexpected value 'ObserversModule in C:/Users/max/projects/node_modules/@angular/cdk/observers/typings/index.d.ts' imported by the module 'MatTabsModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tabs/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\tree\typings\index.ts(44,2): Error during template compile of 'CdkTreeNode'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(45,2): Error during template compile of 'CdkNestedTreeNode'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(35,2): Error during template compile of 'CdkTreeNodeDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(20,2): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(17,2): Error during template compile of 'CdkTreeNodeOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(121,2): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(29,2): Error during template compile of 'CdkTreeModule'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(19,2): Error during template compile of 'CdkTreeNodeToggle'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Unexpected value 'CdkTreeModule in C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts' imported by the module 'MatTreeModule in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts'. Please add a @NgModule annotation.
+@angular\cdk\accordion\typings\index.ts(31,4): Error during template compile of 'CdkAccordion'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(38,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(40,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(42,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(49,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(55,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\accordion\typings\index.ts(85,4): Error during template compile of 'CdkAccordionItem'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/accordion/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(44,4): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+@angular\cdk\text-field\typings\index.ts(52,4): Error during template compile of 'CdkTextareaAutosize'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/text-field/typings/index.d.ts..
+: Can't resolve all parameters for MatTextareaAutosize in C:/Users/max/projects/tstmulti/node_modules/@angular/material/input/typings/index.d.ts: (?, [object Object], ?).
+@angular\cdk\stepper\typings\index.ts(158,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(164,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(170,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(191,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(198,4): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(207,6): Error during template compile of 'CdkStepper'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Can't resolve all parameters for MatHorizontalStepper in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts: ([object Object], ?).
+@angular\cdk\stepper\typings\index.ts(75,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(78,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(81,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(87,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(90,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(98,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(106,4): Error during template compile of 'CdkStep'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+: Can't resolve all parameters for MatStepper in C:/Users/max/projects/tstmulti/node_modules/@angular/material/stepper/typings/index.d.ts: ([object Object], ?).
+@angular\cdk\stepper\typings\index.ts(22,4): Error during template compile of 'CdkStepperNext'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\stepper\typings\index.ts(37,4): Error during template compile of 'CdkStepperPrevious'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/stepper/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(172,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(204,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(223,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(224,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(225,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(231,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(234,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(242,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(250,4): Error during template compile of 'CdkTable'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+: Can't resolve all parameters for MatHeaderCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatHeaderRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+@angular\cdk\table\typings\index.ts(50,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(63,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(66,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+@angular\cdk\table\typings\index.ts(69,4): Error during template compile of 'CdkColumnDef'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/table/typings/index.d.ts..
+: Can't resolve all parameters for MatCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+: Can't resolve all parameters for MatFooterCellDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?).
+: Can't resolve all parameters for MatFooterRowDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/table/typings/index.d.ts: (?, ?).
+@angular\cdk\portal\typings\index.ts(95,4): Error during template compile of 'CdkPortalOutlet'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/portal/typings/index.d.ts..
+: Can't resolve all parameters for MatTreeNodeDef in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: (?).
+@angular\cdk\tree\typings\index.ts(28,4): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(38,4): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(50,16): Error during template compile of 'CdkTreeNodePadding'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Can't resolve all parameters for MatTreeNodePadding in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: ([object Object], [object Object], ?, ?, [object Object]).
+@angular\cdk\tree\typings\index.ts(27,4): Error during template compile of 'CdkTreeNodeToggle'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(154,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(164,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(167,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+@angular\cdk\tree\typings\index.ts(170,4): Error during template compile of 'CdkTree'
+  Could not resolve @angular/core relative to C:/Users/max/projects/node_modules/@angular/cdk/tree/typings/index.d.ts..
+: Can't resolve all parameters for MatTree in C:/Users/max/projects/tstmulti/node_modules/@angular/material/tree/typings/index.d.ts: (?, ?).
+
+    at Object.<anonymous> (C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ngc\compile-source-files.js:62:68)
+    at Generator.next (<anonymous>)
+    at C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ngc\compile-source-files.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ngc\compile-source-files.js:3:12)
+    at Object.compileSourceFiles (C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ngc\compile-source-files.js:21:12)
+    at Object.<anonymous> (C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ng-v5\entry-point\ts\compile-ngc.transform.js:42:34)
+    at Generator.next (<anonymous>)
+    at C:\Users\max\projects\tstmulti\node_modules\ng-packagr\lib\ng-v5\entry-point\ts\compile-ngc.transform.js:7:71
+    at new Promise (<anonymous>)
+
